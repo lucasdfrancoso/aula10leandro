@@ -54,7 +54,7 @@
 </head>
 <body>
 
-    <h1>Venda de Quadrinhos!!</h1>
+    <h1>Venda de Quadrinhos!</h1>
     <h2>
         Bem-vindo à Loja Marvel!<br>
         Explore um universo repleto de aventuras incríveis com os quadrinhos da Marvel. De Homem-Aranha a Vingadores, temos uma seleção imperdível de edições clássicas, especiais e lançamentos recentes para todos os fãs, novos e veteranos.<br><br>
